@@ -10,6 +10,9 @@ const int INF = 21;
 
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
     pii dp[1 << 20];
     int N;
     long long  X, w[MAX];
