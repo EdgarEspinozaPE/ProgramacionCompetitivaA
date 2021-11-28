@@ -1,3 +1,6 @@
+// P_5 Monsters
+// https ://cses.fi/problemset/task/1194
+
 #include <iostream>
 #include <string>
 #include <queue>
@@ -40,6 +43,9 @@ void printsolution(int x, int y) {
 
 int main() {
     
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
     cin >> N >> M;
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < M; j++) {
