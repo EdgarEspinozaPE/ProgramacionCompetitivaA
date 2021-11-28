@@ -1,3 +1,5 @@
+// P_4 Elevator Rides
+// https://cses.fi/problemset/task/1653
 #include <iostream>
 
 using namespace std;
@@ -6,13 +8,11 @@ typedef pair<int, int> pii;
 const int MAX = 20;
 const int INF = 21;
 
-
-
-
 int main() {
+
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    
+
     pii dp[1 << 20];
     int N;
     long long  X, w[MAX];
