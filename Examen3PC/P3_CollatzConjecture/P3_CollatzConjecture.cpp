@@ -1,3 +1,7 @@
+/*
+Link P3: https://open.kattis.com/problems/collatz
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,3 +1,7 @@
+/*
+Link P14: https://open.kattis.com/problems/narrowartgallery
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

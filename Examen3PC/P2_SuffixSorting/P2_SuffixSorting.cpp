@@ -1,3 +1,7 @@
+/*
+Link P2: https://open.kattis.com/problems/suffixsorting
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

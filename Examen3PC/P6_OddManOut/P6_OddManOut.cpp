@@ -1,3 +1,7 @@
+/*
+Link P6: https://open.kattis.com/problems/oddmanout
+*/
+
 #include<iostream>
 #include<vector>
 #include <algorithm>
